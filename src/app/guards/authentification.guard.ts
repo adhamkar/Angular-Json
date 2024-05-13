@@ -9,9 +9,9 @@ import {
 import {Observable} from "rxjs";
 import {AppStateService} from "../services/app-state.service";
 import {Injectable} from "@angular/core";
-@Injectable({
-  providedIn:'root'
-})
+
+
+
 export class AuthentificationGuard {
   constructor(private appState:AppStateService,private router:  Router) {
   }

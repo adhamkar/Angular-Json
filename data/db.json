@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "user1",
-      "password": "MTIzNA==",
+      "password": "IjEyMzQi",
       "roles": [
         "USER"
       ],
@@ -27,12 +27,6 @@
     }
   ],
   "products": [
-    {
-      "id": "2",
-      "name": "smartphone",
-      "price": "1200",
-      "checked": true
-    },
     {
       "id": "3",
       "name": "Tablet",
