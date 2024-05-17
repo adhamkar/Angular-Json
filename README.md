@@ -1,6 +1,5 @@
 <h2>Tp-Application de Gestion de Produits avec Angular et JSON Server</h2>
-<h4>Réaliser par Maryam Nfad 
-<h6>Cette application web Angular permet de gérer des produits en utilisant un backend basé sur JSON Server. Elle offre des fonctionnalités de visualisation, d'ajout, de modification et de suppression de produits.
+
 <h3>Installation
 <h6>
 1- Assurer  d'avoir Node.js installé sur votre machine.
